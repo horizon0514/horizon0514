@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @horizon0514
 - 👀 I’m interested in WebGL\React\Typescript\Nextjs
-- 🌱 I’m currently learning blitzjs 
+- 🌱 I’m currently learning nextjs(and blitzjs), rust  
 - 📫 How to reach me  send me email horizon0514@gmail.com
 
 <!---
